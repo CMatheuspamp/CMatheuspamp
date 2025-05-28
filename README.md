@@ -9,6 +9,10 @@
 
 ###
 
+<p align="left">𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 👨🏼‍💻</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -24,6 +28,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+
+<p align="left">𝐂𝐨𝐧𝐞𝐜𝐭𝐞-𝐬𝐞 𝐜𝐨𝐦𝐢𝐠𝐨 🤝</p>
 
 ###
 
